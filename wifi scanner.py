@@ -10,7 +10,7 @@ import nmap
 # We need to create regular expressions to ensure that the input is correctly formatted.
 import re
 
-#testing
+
 # Basic user interface header
 print(r"""
  __  __      _                   _    
